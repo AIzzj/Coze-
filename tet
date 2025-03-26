@@ -1,0 +1,11 @@
+project_root/
+├── nodes/                # 节点相关文档
+│   ├── basic_nodes.md    # 基础节点
+│   ├── ai_nodes.md      # AI模型节点
+│   └── plugin_nodes.md  # 插件节点
+├── variables/           # 变量传递文档
+│   ├── system_vars.md  # 系统变量
+│   └── custom_vars.md  # 自定义变量
+└── templates/          # 工作流模板
+    ├── basic_flows.md  # 基础工作流
+    └── advanced_flows.md # 高级工作流
